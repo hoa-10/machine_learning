@@ -1,0 +1,15 @@
+Outlook,Temperature,Humidity,Wind,PlayGolf,
+2,Sunny,Hot,High,Weak,No
+3,Sunny,Hot,High,Strong,No
+4,Overcast,Hot,High,Weak,Yes
+5,Rainy,Mild,High,Weak,Yes
+6,Rainy,Cool,Normal,Weak,Yes
+7,Rainy,Cool,Normal,Strong,No
+8,Overcast,Cool,Normal,Strong,Yes
+9,Sunny,Mild,High,Weak,No
+10,Sunny,Cool,Normal,Weak,Yes
+11,Rainy,Mild,Normal,Weak,Yes
+12,Sunny,Mild,Normal,Strong,Yes
+13,Overcast,Mild,High,Strong,Yes
+14,Overcast,Hot,Normal,Weak,Yes
+15,Rainy,Mild,High,Strong,No
